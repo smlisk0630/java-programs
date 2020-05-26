@@ -1,2 +1,7 @@
 # java-programs
-Programs I wrote while learning Java
+## These are programs I've written while learning Java:
+* Store
+* Calculator
+* Droid
+* Monthly Loan Payment Calculator
+* Magic 8 Ball
