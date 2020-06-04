@@ -12,3 +12,8 @@
 ## Introduction to Java, Wake Technical Community College Ed2Go Online Course
 * Circumference Calculator
 * Temperature Converter
+
+## Tools
+* VS Code
+* VS Code Extension: Language Support for Java, RedHat
+* VS Code Extension: Debugger for Java, Microsoft
