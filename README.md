@@ -1,5 +1,5 @@
 # java-programs
-## These are programs I've written while learning Java:
+## These are programs I've written while learning Java.
 
 ## Codecademy 
 * Box
